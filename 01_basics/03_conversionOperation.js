@@ -18,5 +18,13 @@ let booleanIsLoggedIn= Boolean(isLoggedIn)
 let randomNumber = 67
 
 let stringNumber = String(randomNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+// *********************************************************************Operations *************************************************************************************88//
+
+let value= 67
+let negValue = -value
+console.log(negValue)
+
+
